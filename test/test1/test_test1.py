@@ -7,4 +7,4 @@ class TestTest1(unittest.TestCase):
         self.assertEqual(1, 1)
 
     def test_test1_failed(self):
-        self.assertEqual(1, 2)
+        self.assertEqual(1, 3)
